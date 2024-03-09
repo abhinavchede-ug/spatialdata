@@ -31,7 +31,6 @@ dependencies = [
     "multiscale_spatial_image==0.11.2",
     "xarray-schema",
     "geopandas",
-    "shapely>=2.0.1",
     "rich",
     "pyarrow",
     "typing_extensions>=4.8.0",
